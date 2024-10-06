@@ -1,0 +1,31 @@
+.block {
+    padding-top: 60px;
+}
+
+.list {
+    display: flex;
+    align-items: center;
+    gap: 25px;
+}
+
+.item {
+    width: 315px;
+    display: flex;
+    align-items: center;
+    gap: 19px;
+}
+
+.title {
+    font-weight: 700;
+    font-size: 15px;
+    line-height: 120%;
+    color: #11142d;
+    margin-bottom: 7px;
+}
+
+.text {
+    font-weight: 400;
+    width: 212px;
+    font-size: 11px;
+    color: #aaa;
+}

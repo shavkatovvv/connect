@@ -1,0 +1,79 @@
+.big_block {
+    width: 1005px;
+    border-radius: 12px;
+    background-image: url(../../assets/woman.svg);
+    background-position: left bottom;
+    background-color: #eef4ff;
+    background-repeat: no-repeat;
+    padding: 52px;
+}
+
+.title {
+    font-weight: 700;
+    font-size: 24px;
+    color: #242424;
+}
+
+.wrapper {
+    display: flex;
+    gap: 60px;
+}
+
+.list {
+    display: flex;
+    align-items: center;
+    gap: 16px;
+}
+
+.item {
+    width: 195px;
+    text-align: center;
+}
+
+.item_title {
+    margin-top: 16px;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 100%;
+    color: #242424;
+}
+
+.an_block {
+    border-radius: 12px;
+    width: 261px;
+    box-shadow: 0 4px 4px 0 rgba(0, 0, 0, 0.25);
+    background-color: rgb(63, 63, 173);
+    padding: 32px 38px 38px 24px;
+}
+
+.main_wrapper {
+    display: flex;
+    align-items: center;
+    gap: 24px;
+}
+
+.an_title {
+    font-weight: 700;
+    font-size: 24px;
+    line-height: 133%;
+    color: white;
+    margin-bottom: 20px;
+}
+
+.text {
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 133%;
+    color: white;
+    margin-bottom: 77px;
+}
+
+.btn {
+    font-weight: 700;
+    font-size: 18px;
+    color: #242424;
+    border: none;
+    border-radius: 14px;
+    padding: 7px 24px;
+    background-color: white;
+}
